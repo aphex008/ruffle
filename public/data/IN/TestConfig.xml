@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+	<id>20</id>
+	<type>4</type>
+	<name>Testas testas 123</name>
+	<author>Autorius v pavarde 45</author>
+	<email>name@email.lt</email>
+	<showEmail>true</showEmail>
+	<testPurpose>2</testPurpose>
+	<level>2</level>
+	<quantity>1</quantity>
+	<duration>20</duration>
+	<password>zzz</password>
+	<topic>
+		<item id="2" />
+		<item id="4" />
+	</topic>
+	<MOlist>
+		<!-- type: tipas - kryziazodis, delione -->
+		<!-- eduType: zinios supratimas... -->
+		<!-- eduLevel: Patenkinamas, Pagrindinis... -->
+		
+	<item id="0000476" name="Atpažinkite medžiagas ir suskirstykite jas pagal būsenas " descr="Buityje susiduriame su įvairiomis medžiagomis. Suskirstykite jas pagal būsenas: kieta, skysta, dujinė." type="2" topic="1" eduType="1" eduLevel="1" path="testai/Sudelioti elementus i jiems skirtas vietas/T4/T4.swf" xmldata="testai/Sudelioti elementus i jiems skirtas vietas/T4/476.xml" />
+	<item id="0000183" name="Atpažinkite medžiagas ir suskirstykite jas pagal būsenas " descr="Buityje susiduriame su įvairiomis medžiagomis. Suskirstykite jas pagal būsenas: kieta, skysta, dujinė." type="2" topic="1" eduType="1" eduLevel="3" path="testai/Sudelioti elementus i jiems skirtas vietas/T4f/T4f.swf" xmldata="testai/Sudelioti elementus i jiems skirtas vietas/T4f/183.xml" />
+	<item id="0000320" name="Atpažinkite paveiksle pavaizduotus miško ekosistemos vartotojus " descr="Atpažinkite paveiksle pavaizduotus miško ekosistemos vartotojus " type="2" topic="1" eduType="1" eduLevel="2" path="testai/Sudelioti elementus i jiems skirtas vietas/T4j/T4j.swf" xmldata="testai/Sudelioti elementus i jiems skirtas vietas/T4j/320.xml" />
+			
+	<item id="0000507" name="LA la al a " descr="sdfasdfasdfasdf" type="3" topic="1" eduType="1" eduLevel="2" path="Testu_prototipai/T5b_edit_1871.swf" xmldata="Testu_prototipai/1871.xml" />		
+		
+	</MOlist>
+	<favourite>false</favourite>
+</xml>

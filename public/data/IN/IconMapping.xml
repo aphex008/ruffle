@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+	<EduType>
+		<item id="1" icon="1" />
+		<item id="2" icon="2" />
+	</EduType>
+	<MOtype>
+		<item id="215" icon="1" />
+		<item id="214" icon="2" />
+		<item id="219" icon="3" />
+		<item id="216" icon="4" />
+		<item id="220" icon="5" />
+		<item id="218" icon="6" />
+		<item id="221" icon="7" />
+	</MOtype>
+	<EduLevel>
+		<item id="209" icon="1" />
+		<item id="210" icon="2" />
+		<item id="211" icon="3" />
+	</EduLevel>
+</xml>

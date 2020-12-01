@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <UiContextHelp>
+    <item id="k1"><![CDATA[Įveskite sukurto testo identifikacinį numerį (ID), kurį gavote el. paštu, sukūrę testą. Galite įvesti ir kolegų sukurto testo ID, jeigu jį žinote.<br/><a href="lt.php/pagalba/" target="_blank">Plačiau...</a>]]></item>
+    <item id="k2"><![CDATA[Nurodykite, kurių veiklos sričių klausimus norėtumėte įtraukti į testą. Veiklos sritys pateikiamos remiantis Bendrosiomis programomis.<br/><a href="lt.php/pagalba/" target="_blank">Plačiau...</a>]]></item>
+    <item id="k3"><![CDATA[Pasirinkite, kokio tipo klausimus, pagal jų atlikimo būdą, įtraukti į testą.<br/><a href="lt.php/pagalba/" target="_blank">Plačiau...</a>]]></item>
+    <item id="k4"><![CDATA[Įveskite, kiek klausimų bus pateikiama sprendimui.<br/><a href="lt.php/pagalba/" target="_blank">Plačiau...</a>]]></item>
+    <item id="k5"><![CDATA[Testo sudėtingumo lygis nusako, koks teste bus patenkinamojo, pagrindinio ir aukštesniojo lygmens klausimų santykis.<br/><a href="lt.php/pagalba/" target="_blank">Plačiau...</a>]]></item>
+    <item id="k6"><![CDATA[Pasirinkite testo sprendimo būdą.<br/>Savitikra - sprendimo ataskaita parodoma baigus spręsti testą.<br/>Mokymasis - teisingas atsakymas parodomas iš karto atsakius į klausimą.<br/>Kontrolinis darbas -  baigus spręsti testą, ir nurodžius slaptažodį, parodoma testo sprendimo ataskaita.<br/>Pasirinkus spausdinimą, į testą bus įtraukti spausdinimui tinkami klausimai.<br/><a href="lt.php/pagalba/" target="_blank">Plačiau...</a>]]></item>
+    <item id="k7"><![CDATA[Nurodykite, kiek minučių skiriama testo sprendimui. Pasibaigus laikui, testo sprendimas bus sustabdomas. Laiką nurodykite, jei sudarinėjate kontrolinio darbo testą.]]></item>
+    <item id="k8"><![CDATA[Sąraše išvardyti klausimai, pateikiama papildoma informacija apie kiekvieną klausimą, nurodomas ugdomas gebėjimo lygmuo (patenkinamas, pagrindinis ar aukštesnysis) bei klausimo tipas.]]></item>
+    <item id="k9"><![CDATA[Teste gali būti išsaugota daugiau klausimų, negu pateikiama sprendimui. Tokiu atveju iš klausimų sąrašo mokinio sprendimui atsitiktine tvarka bus pateikiamas nurodytas klausimų kiekis.<br/><a href="lt.php/pagalba/" target="_blank">Plačiau...</a>]]></item>
+    <item id="k10"><![CDATA[Nurodytu adresu bus išsiųsta informacija apie šį testą (nuoroda, ID ir kita). Jei norite, kad šį el. pašto adresą matytų tie, kurie atsidarys šį testą, pažymėkite toliau esančią varnelę.]]></item>
+    <item id="k11"><![CDATA[Testo ID galėsite panaudoti, kai norėsite vėliau atidaryti testą sprendimui, įvesdami šį ID į tam skirtą laukelį.<br/><a href="lt.php/pagalba/" target="_blank">Plačiau...</a>]]></item>
+    <item id="k12"><![CDATA[Nuorodą į testą galėsite išsiųsti, jei norėsite duoti testą sprendimui.]]></item>
+  </UiContextHelp>
+  <UiButtonTips>
+    <item id="e1" buttonTitle="toolbar_top.btn_create">Sudaryti naują testą</item>
+    <item id="e2" buttonTitle="toolbar_top.btn_open">Atidaryti sukurtą testą</item>
+    <item id="e3" buttonTitle="toolbar_top.btn_download">Atsisiųsti</item>
+    <item id="e4" buttonTitle="toolbar_top.btn_help">Pagalba</item>
+    <item id="e5" buttonTitle="toolbar_top.btn_info">Informacija</item>
+    <item id="e6" buttonTitle="toolbar_top.btn_fav">Įtraukti į mano išrinktuosius</item>
+	<item id="e7" buttonTitle="toolbar_top.btn_fav_m">Šalinti iš mano išrinktųjų</item>
+    <item id="e8" buttonTitle="toolbar_top.btn_fullscreen">Rodyti per visą ekraną</item>
+    <item id="e9" buttonTitle="toolbar_top.btn_sheet">Atsiskaitymo lapas</item>
+    <item id="e11" buttonTitle="toolbar_bottom.ld_controls_1.btn_back">Ankstesnis kadras</item>
+    <item id="e12" buttonTitle="toolbar_bottom.ld_controls_1.btn_rew">Į pradžią</item>
+    <item id="e13" buttonTitle="toolbar_bottom.ld_controls_1.btn_next">Kitas kadras</item>
+    <item id="e14" buttonTitle="toolbar_bottom.ld_controls_1.btn_play">Leisti</item>
+	<item id="e14p" buttonTitle="toolbar_bottom.ld_controls_1.btn_pause">Pauzė</item>
+    <item id="e15" buttonTitle="toolbar_bottom.ld_controls_1.btn_stop">Sustabdyti</item>
+    <item id="e16" buttonTitle="toolbar_bottom.video_slider.head">Peržiūros progreso juosta</item>
+    <item id="e17" buttonTitle="toolbar_bottom.font_size_select.bigbtn">Didinti tekstą</item>
+    <item id="e18" buttonTitle="toolbar_bottom.sound_ctrl.speaker">Garsas</item>
+	<item id="e19" buttonTitle="toolbar_bottom.ld_controls_1.bplay">Leisti</item>
+	<item id="e20" buttonTitle="toolbar_bottom.ld_controls_1.bstop">Sustabdyti</item>
+	<item id="e21" buttonTitle="toolbar_bottom.ld_controls_1.bpause">Pauzė</item>
+	<item id="e22" buttonTitle="toolbar_bottom.ld_controls_1.brestart">Leisti iš naujo</item>
+	<item id="e23" buttonTitle="toolbar_bottom.font_size_select.smaller">Mažinti tekstą</item>
+	<item id="e24" buttonTitle="toolbar_top.btn_fullscreen_3">Mažinti vaizdą</item>
+  </UiButtonTips>  
+  <UiLabels>
+  	<item id="l1" labelID="intro1"><![CDATA[Sukurti naują testą]]></item>
+	<item id="l2" labelID="intro2"><![CDATA[Spręsti sukurtą testą]]></item>
+	<item id="l3" labelID="step1"><![CDATA[Pasirinkite veiklos sritį, nurodykite testo sudėtingumo lygį, bei klausimų kiekį teste. Pasirinkite kokiam tikslui naudosite testą.]]></item>
+  	<item id="l4" labelID="step2"><![CDATA[Sąraše pateikiami klausimai, kurie atitiko jūsų nurodytus parametrus. Galite peržiūrėti informaciją apie klausimus bei redaguoti šį sąrašą.]]></item>
+	<item id="l5" labelID="step3"><![CDATA[Galite įvesti savo vardą bei el. pašto adresą. Nurodytu adresu bus išsiųsta testo informacija (nuoroda į testą, ID ir kita).]]></item>
+	<item id="l6" labelID="intro3"><![CDATA[Įveskite testo ID:]]></item>
+	<item id="l7" labelID="testEndMsgBox"><![CDATA[Laikas skirtas testo sprendimui baigėsi]]></item>
+	<item id="l8" labelID="pswdErrorMsgBox"><![CDATA[Įvestas neteisingas slaptažodis. Pakartokite įvedimą]]></item>
+	<item id="l9" labelID="testEndWarningMsgBox"><![CDATA[Ne visi testo klausimai išspręsti. Ar tikrai norite baigti testo sprendimą?]]></item>
+	<item id="l10" labelID="btnStartTestCaption"><![CDATA[Spręsti testą]]</item>
+	<item id="l11" labelID="btnPrintTestCaption"><![CDATA[Spausdinti testą]]</item>
+	<item id="l12" labelID="testInfo1"><![CDATA[Veiklos sritis (-ys)]]></item>
+	<item id="l13" labelID="testInfo2"><![CDATA[Nuostatos]]></item>
+	<item id="l14" labelID="testInfo3"><![CDATA[Gebėjimai]]></item>
+	<item id="l15" labelID="testInfo4"><![CDATA[Žinios ir supratimas]]></item>
+	<item id="l16" labelID="testInfo5"><![CDATA[Sudėtingumo lygis]]></item>
+	<item id="l17" labelID="testInfo6"><![CDATA[Testo autorius]]></item>
+	<item id="l18" labelID="testInfo7"><![CDATA[Klausimų skaičius]]></item>
+	<item id="l19" labelID="testInfo8"><![CDATA[Atlikimo būdas]]></item>
+	<item id="l20" labelID="testInfo9"><![CDATA[Atlikimui skirtas laikas]]></item>
+	<item id="l21" labelID="testInfo10"><![CDATA[Testo ID]]></item>
+	<item id="l22" labelID="testInfo11"><![CDATA[Neribojamas]]></item>
+	<item id="l23" labelID="testInfo12"><![CDATA[Klausimas]]></item>
+	<item id="l24" labelID="testInfo13"><![CDATA[Pedagoginis aprašas]]></item>
+	<item id="l25" labelID="testInfo14"><![CDATA[Ugdomas gebėjimo lygmuo]]></item>
+	<item id="l26" labelID="testInfo15"><![CDATA[Pasiekimas]]></item> 
+	<item id="l27" labelID="testInfo16"><![CDATA[Elektroninis paštas]]></item> 
+	<item id="l28" labelID="testInfo17"><![CDATA[Paruošto testo nuoroda]]</item>
+	<item id="l29" labelID="testInfo18"><![CDATA[Paruošto testo nuoroda]]</item>	
+	<item id="l30" labelID="labInfo1"><![CDATA[Veiklos sritis]]></item>
+	<item id="l31" labelID="labInfo2"><![CDATA[Gebėjimai]]></item>
+	<item id="l32" labelID="labInfo3"><![CDATA[Žinios ir supratimas]]></item>
+	<item id="l33" labelID="labInfo4"><![CDATA[Nuostatos]]></item>
+	<item id="l34" labelID="labInfo5"><![CDATA[Autorius]]></item>
+	<item id="l35" labelID="labInfo6"><![CDATA[ID]]></item>
+	<item id="l36" labelID="labInfo7"><![CDATA[Aprašymas]]></item>
+	<item id="l37" labelID="labInfo8"><![CDATA[Metodinės rekomendacijos]]></item>
+	<item id="l38" labelID="labInfo9"><![CDATA[Metaduomenys]]></item>	
+	<item id="l39" labelID="testEmailError"><![CDATA[Įveskite teisingą elektroninį paštą]]></item>
+	<item id="l40" labelID="testSendTrue"><![CDATA[Duomenys elektroniniu paštu išsiųsti sėkmingai]]></item>
+	<item id="l41" labelID="testSendFalse"><![CDATA[Duomenys elektroniniu paštu nebuvo išsiųsti]]></item>
+	<item id="l42" labelID="btn_close_1"><![CDATA[Rezultatai]]></item>
+	<item id="l43" labelID="doldFullscreenWarning"><![CDATA[Jūs pasirinkote rodymo per visą ekraną funkciją, šiuo metu Jūsų atliekamas laboratorinis darbas (demonstracija) bus pradėtas(-a) nuo pradžios. Ar norite pradėti nuo pradžios?]]></item>
+	<item id="l44" labelID="testFullscreenWarning"><![CDATA[Jūs pasirinkote rodymo per visą ekraną funkciją, šiuo metu Jūsų atliekamas testas bus pradėtas nuo pradžios. Ar norite pradėti nuo pradžios?]]></item>
+	<item id="l45" labelID="doldFullscreenWarning2"><![CDATA[Sumažinus ekraną, šiuo metu Jūsų atliekamas laboratorinis darbas arba demonstracija bus pradėtas(-a) nuo pradžios. Ar norite pradėti nuo pradžios?]]></item>
+	<item id="l46" labelID="testFullscreenWarning2"><![CDATA[Sumažinus ekraną, šiuo metu Jūsų atliekamas testas bus pradėtas(-a) nuo pradžios. Ar norite pradėti nuo pradžios?]]></item>
+	<item id="l47" labelID="testEndWarningMsgBox2"><![CDATA[Šiuo metu Jūsų atliekamas testas bus pradėtas nuo pradžios. Ar norite pradėti nuo pradžios?]]></item>
+	<item id="l48" labelID="testNotFound"><![CDATA[Įvestas testo ID neegzistuoja. Įveskite teisingą testo ID.]]</item>
+  </UiLabels>
+</xml>

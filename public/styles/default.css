@@ -1,0 +1,28 @@
+.png_bg_repeat {
+	behavior: expression(
+	this.pngSet?this.pngSet=true:(this.origBg = this.origBg ? this.origBg : this.currentStyle.backgroundImage.toString().replace('url("','').replace('")',''),
+	this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.origBg + "', sizingMethod='scale')", 
+	this.runtimeStyle.backgroundImage = "none"), this.pngSet=true);
+}
+
+.png, .png_bg {
+    behavior: expression((this.runtimeStyle.behavior="none")&&(this.pngSet?this.pngSet=true:(this.nodeName == "IMG" && this.src.toLowerCase().indexOf('.png')>-1?(
+	this.runtimeStyle.backgroundImage = "none", this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.src + "', sizingMethod='image'"+String.fromCharCode(41),
+	this.src="/images/transparent.gif"):(this.origBg = this.origBg ? this.origBg : this.currentStyle.backgroundImage.toString().replace('url("','').replace('")',''),
+	this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.origBg + "', sizingMethod='crop')", 
+	this.runtimeStyle.backgroundImage = "none")),this.pngSet=true));
+}
+.clearfix:after, .form_row:after, .form-row:after {
+	content: " "; 
+	display: block; 
+	height: 0; 
+	clear: both; 
+	visibility: hidden;
+}
+.clearfix, .form_row, .form-row {display: inline-block;}
+/* Hides from IE-mac \*/
+* html .clearfix, * html .form_row, * html .form-row {height: 1%;}
+.clearfix, .form_row, .form-row {display: block;}
+/* End hide from IE-mac */
+.form_row input.text, .form_row label, .form-row input.text, .form-row label {display: block; float: left;}
+.clear {clear: both;}

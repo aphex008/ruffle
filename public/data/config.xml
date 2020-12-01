@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?><XMLconfig>
+	<Receive 
+		TestPurpose="data/IN/TestPurpose.xml" 
+		TestLevel="data/IN/TestLevel.xml" 
+		EduLevel="data/IN/EduLevel.xml" 
+		EduType="data/IN/EduType.xml" 
+		Topic="data/IN/Topic.xml" 
+		MOtype="data/IN/MOtype.xml" 
+		IconMapping="data/IN/IconMapping.xml" 
+		UiTexts="data/IN/UiTexts.xml"
+        	PeriodicTable="data/IN/cheTable.xml"
+		TestTemplates="data/IN/Templates.xml"
+	></Receive>
+	<Send 
+		FilterWizardMO="data/api.xml" 
+		GetByID="data/api.xml" 
+		SaveWizard="data/api.xml" 
+		GetLabByID="data/api.xml" 
+		SendResultsEmail="data/api.xml" 
+		ValidateMoList="data/api.xml"
+	></Send>
+	<Urls 
+		TestDownload="" 
+		DoLdDownload="" 
+		PrintTest="" 
+		ViewTest="" 
+		ImagesBasePath="" 
+		WikiBasePath="" 
+		DoLdHelpUrl="" 
+		TestHelpUrl="" 
+		MetadataUrl=""
+		SaveImagePath="http://geografija6-8.mkp.emokykla.lt/bin/img_save.php"
+		ImageXML="data/api.xml"
+	></Urls>
+	<Buttons 
+		btn_info="false" 
+		btn_fav="false" 
+		btn_help="false" 
+		btn_sheet="false" 
+		btn_download="false" 
+		btn_fullscreen="false"
+	></Buttons>
+	<Scorm inPackage="true"></Scorm>
+</XMLconfig>

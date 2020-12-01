@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+	<item id="59059213" icon="1" name="Pasirenkamas vienas teisingas atsakymo variantas" />
+	<item id="59059214" icon="2" name="Sudelioti elementus i jiems skirtas vietas" />
+	<item id="59059215" icon="3" name="Atsakymu suporavimas" />
+	<item id="59059216" icon="4" name="Sugrupuoti elementus pagal pozymius" />
+	<item id="59059212" icon="5" name="Pasirenkami keli teisingi atsakymo variantai" />
+	<item id="59059217" icon="6" name="Kryziazodis" />
+	<item id="59059174" icon="7" name="Delionė" />
+	<item id="59059196" icon="8" name="Atsakymas irasomas numatytoje vietoje" />
+</xml>

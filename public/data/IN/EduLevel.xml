@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+	<item id="1" icon="1" name="Patenkinamas" />
+	<item id="2" icon="2" name="Pagrindinis" />
+	<item id="3" icon="3" name="Aukštesnysis" />
+</xml>

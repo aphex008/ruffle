@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+	<template id="1" title="pavadinimas 1r">task_types/1r.swf|task_types/1m.swf</template>
+	<template id="2" title="pavadinimas 1c">task_types/2r.swf|task_types/2m.swf</template>
+	<template id="3" title="pavadinimas 2 ">task_types/3r.swf|task_types/3m.swf</template>
+	<template id="4" title="pavadinimas 2 ">task_types/2a.swf</template>
+	<template id="5" title="pavadinimas 2 ">task_types/3a.swf</template>
+	<template id="6" title="pavadinimas 3 ">task_types/3b.swf</template>
+	<template id="7" title="pavadinimas 3 ">task_types/3c.swf</template>
+	<template id="8" title="pavadinimas 3 ">task_types/3e.swf</template>
+	<template id="9" title="pavadinimas 3 ">task_types/3d.swf</template>
+	<template id="10" title="pavadinimas 3">task_types/4a.swf</template>
+	<template id="11" title="pavadinimas 4">task_types/4b.swf</template>
+	<template id="12" title="pavadinimas 4">task_types/5a.swf</template>
+	<template id="13" title="pavadinimas 5">task_types/5b.swf</template>
+	<template id="14" title="pavadinimas 5">task_types/6a.swf</template>
+	<template id="15" title="pavadinimas 6">task_types/7a.swf</template>
+	<template id="16" title="pavadinimas 7">task_types/7b.swf</template>
+	<template id="17" title="pavadinimas 4">task_types/8a.swf</template>
+	<template id="18" title="pavadinimas 4">task_types/9a.swf</template>
+	<template id="19" title="pavadinimas 5">task_types/10a.swf</template>
+	<template id="20" title="pavadinimas 5">task_types/10b.swf</template>
+	<template id="21" title="pavadinimas 6">task_types/11a.swf</template>
+	<template id="22" title="pavadinimas 7">task_types/12a.swf</template>
+</xml>

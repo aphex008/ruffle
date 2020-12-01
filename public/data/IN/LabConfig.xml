@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+	<id>495</id>
+	<name><![CDATA[<b>Laboras 1</b>]]></name>
+	<author>Autorius v pavarde</author>
+	<topic>
+		<item id="4" />
+	</topic>
+	<descr>Laboro aprasymas ......</descr>
+	<wiki>http://www.sviesa.lt</wiki>
+	<sheet>testDO-LD/1045.pdf</sheet>
+	<!--<path>http://m2t.321.lt/sviesa/Gamta-enciklopedijos_importas/src/906/video/video.flv</path>-->
+	<!--<path>testDO-LD/240.swf</path>-->
+	<path>http://serveris/vcs_tautvydas/G2/uploads/files/19_learningobject_file_1_17001344274916.swf</path>
+	<xmldata></xmldata>
+	<rules>nuostatos</rules>
+	<abilities>gebejimai</abilities>
+	<btn_fav>true</btn_fav>
+	<btn_info>true</btn_info>
+	<knowledge>zinios ir supratimas</knowledge>
+	<favourite>false</favourite>
+	
+</xml>
