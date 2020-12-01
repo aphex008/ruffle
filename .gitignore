@@ -26,4 +26,4 @@ yarn-error.log
 ###< squizlabs/php_codesniffer ###
 /docker/php/composer/auth.json
 /docker/php/composer/cache/
-/docker/logs
+/docker/logs/nginx/*
