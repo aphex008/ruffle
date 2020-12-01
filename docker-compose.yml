@@ -9,7 +9,6 @@ services:
       - ./docker/nginx/nginx.conf:/etc/nginx/nginx.conf
       - ./docker/nginx/sites/:/etc/nginx/sites-available
       - ./docker/nginx/conf.d/:/etc/nginx/conf.d
-      - ./docker/logs:/var/log
     ports:
       - "8112:80"
 
